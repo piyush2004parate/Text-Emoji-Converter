@@ -72,19 +72,6 @@ python -m http.server 8000
 - If you add dependencies or tools later, include steps here (e.g., npm install, build commands).
 - Consider adding automated checks (linting, formatting) if the project grows.
 
-## ✅ Suggestions / Recommended Changes to README
-
-1. Fix the truncated introduction: the previous README appears to be cut off — ensure the first paragraph is complete (this file includes a complete intro).
-2. Update the "git clone" URL to the actual repository (done above).
-3. Add a "Live Demo" link if you host on GitHub Pages or elsewhere.
-4. Add a short "Browser support" note (e.g., modern browsers) and mention if any features require permissions (microphone not needed — TTS uses Web Speech API).
-5. Add a LICENSE file and reference it here (MIT recommended if you want permissive licensing).
-6. Add CONTRIBUTING.md or a short contributing section if you welcome contributions.
-7. Add badges (build, license, GitHub pages) at the top if applicable.
-8. Add usage examples or a short GIF to demonstrate conversion/encryption flows.
-9. Mention any known limitations (e.g., emoji mapping coverage, non-Latin character handling).
-10. Add contact/author and credits.
-
 ## Contributing
 
 Contributions are welcome. Please open an issue or submit a pull request. If you plan on contributing, consider adding a CONTRIBUTING.md with guidelines and a short checklist.
